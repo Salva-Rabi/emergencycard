@@ -122,10 +122,20 @@ The trickiest decision was how the QR code would actually work without a backend
 
 Getting the privacy toggles to correctly filter what goes into the QR payload also took some care — it was easy to accidentally leak a hidden field into the encoded data early on, which defeats the whole point of a privacy-first emergency card.
 
-## Project structure
+## Project Documentation
 
-```
+This folder contains the following supporting files:
+
+- 📄 **EmergencyCard-Project-Description** — Detailed project description document (objectives, scope, and implementation details)
+- 📊 **EmergencyCard-presentation.pptx** — Presentation slides for project demo/defense
+
+> Open the `.pptx` file with Microsoft PowerPoint (or Google Slides / LibreOffice Impress as free alternatives). The project description is in Office Open XML format — open with Microsoft Word.
+
+
+## Project structure
 emergencycard/
+├── EmergencyCard-presentation.pptx
+├── EmergencyCard-Project-Description.docx
 ├── index.html         # App shell, fonts, QR library
 ├── style.css          # Design tokens and all styling
 ├── app.js             # Routing, state, screens, QR + card rendering
