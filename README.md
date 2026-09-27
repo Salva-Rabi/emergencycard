@@ -5,7 +5,7 @@
 A QR-powered emergency identification app. A bystander scans the code on a physical card with any phone camera and instantly sees the blood group, allergies, medical alerts, and emergency contact the owner chose to share — no app install required.
 
 🔗 **Live demo:** https://salva-rabi.github.io/emergencycard/
-🎥 **Demo video:** _add your 3–5 min video link here_
+🎥 **Demo video:** https://drive.google.com/file/d/1j9K4ElNjQd_hNZ2LeK6bzEeIot2nidUS/view?usp=sharing
 
 ## The problem
 
