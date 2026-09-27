@@ -140,3 +140,4 @@ emergencycard/
 ## AI assistance disclosure
 
 Significant AI assistance (Claude) was used to help implement this project from a detailed written spec, including the HTML/CSS/JS structure, the QR/localStorage-based data flow, and this README.
+Significant AI assistance (Free Text To Speech) is used for voice generation.
